@@ -1,0 +1,13 @@
+﻿  SimpleGLUT.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+D:\Animation\SimpleGLUT\Source\model.h(50,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+D:\Animation\SimpleGLUT\Source\model.h(58,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+D:\Animation\SimpleGLUT\Source\model.h(66,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+D:\Animation\SimpleGLUT\Source\model.h(72,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+D:\Animation\SimpleGLUT\Source\model.h(76,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+  SimpleGLUT.vcxproj -> D:\Animation\SimpleGLUT\.\Debug\SimpleGLUT.exe
